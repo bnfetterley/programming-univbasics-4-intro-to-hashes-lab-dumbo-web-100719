@@ -1,4 +1,4 @@
-def new_hash( hash, :key, "value")
+def new_hash(:key, "value")
  
  hash = { :key => "value" }
  
