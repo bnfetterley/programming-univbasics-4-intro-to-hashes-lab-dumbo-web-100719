@@ -1,6 +1,6 @@
 def new_hash
  
-empty_hash = Hash.new
+Hash.new = empty_hash
  
 returns empty_hash
 
