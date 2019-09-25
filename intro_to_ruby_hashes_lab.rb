@@ -1,10 +1,9 @@
 def new_hash(:key, "value")
  
- hash = { :key => "value" }
+ { :key => "value" } = hash
  
 returns hash
 
-end
 end
 
 def my_hash
