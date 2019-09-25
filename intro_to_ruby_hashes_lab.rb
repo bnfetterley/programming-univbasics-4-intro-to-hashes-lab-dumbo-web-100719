@@ -13,7 +13,7 @@ end
 
 def pioneer
   # return a hash with a key of :name and a corresponding value of 'Grace Hopper'
- Hash.new  = {:name => Grace Hopper}
+ Hash.new  = :name => Grace Hopper
 
 end
 
