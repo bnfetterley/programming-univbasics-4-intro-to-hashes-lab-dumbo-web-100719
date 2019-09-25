@@ -1,5 +1,5 @@
 def new_hash(key, value)
-  "key" => "value"
+  :key => value
 end
 
 def my_hash
