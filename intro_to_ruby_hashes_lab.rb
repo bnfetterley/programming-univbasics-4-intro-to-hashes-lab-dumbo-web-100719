@@ -1,8 +1,8 @@
 def new_hash
  
-hash = hash.new
+empty_hash = hash.new
  
-returns hash
+returns empty_hash
 
 end
 
