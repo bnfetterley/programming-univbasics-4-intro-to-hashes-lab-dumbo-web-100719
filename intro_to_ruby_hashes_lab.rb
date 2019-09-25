@@ -1,6 +1,6 @@
 def new_hash
  
-hash = { }
+hash = hash.new
  
 returns hash
 
