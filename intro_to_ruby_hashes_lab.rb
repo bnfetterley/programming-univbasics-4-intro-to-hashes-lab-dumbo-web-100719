@@ -1,6 +1,6 @@
 def new_hash
  
-hash = { :key => "value" }
+hash = { }
  
 returns hash
 
