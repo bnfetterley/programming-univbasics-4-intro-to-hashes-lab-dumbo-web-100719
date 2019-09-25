@@ -1,7 +1,9 @@
 def new_hash(key, value)
  { 
-   :key => value
+   :key => value = hash
  }
+ 
+returns hash
 end
 
 def my_hash
