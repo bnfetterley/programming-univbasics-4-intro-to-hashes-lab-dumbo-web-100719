@@ -5,6 +5,7 @@ def new_hash(:key, "value")
 returns hash
 
 end
+end
 
 def my_hash
   # return a valid hash with any key/value pair of your choice
