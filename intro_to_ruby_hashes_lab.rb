@@ -1,6 +1,7 @@
 def new_hash(key, value)
  
- hash = { }
+ hash = { :key => value }
+ 
 returns hash
 
 end
